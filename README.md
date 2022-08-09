@@ -11,3 +11,5 @@ Jest is required if you wanted to run tests, run `node index.js`
 ## Tests
 Run `npm test` to run Jest for tests on consructors.
 
+## Screenshot
+![alt text](https://github.com/RaviKVelaga/profile-generator/blob/master/dest/images/Screen%20Shot%202022-08-08%20at%205.50.33%20PM.png)
