@@ -17,7 +17,6 @@ const generateManager = function (manager) {
 
     `;
 }
-
 const generateEngineer = function (engineer) {
     return `
         <div class="col-4 mt-4">
@@ -31,9 +30,9 @@ const generateEngineer = function (engineer) {
                     <p class="email">Email : <a href: "mailto:${engineer.email}"> ${engineer.email}</a></p>
                     <p class="github">Github: <a href="https://github.com/${engineer.github}">${engineer.github}</a></p>
                 </div>
-            
+    
             </div>
-        
+      
         </div>
 
     `;
