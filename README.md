@@ -13,5 +13,6 @@ Run `npm test` to run Jest for tests on consructors.
 
 ## Screenshot
 ![alt text](https://github.com/RaviKVelaga/profile-generator/blob/master/dest/images/Screen%20Shot%202022-08-08%20at%205.50.33%20PM.png)
+
 ## Video
 ![alt text](https://github.com/RaviKVelaga/profile-generator/blob/master/dest/video/Screen%20Recording%202022-08-09%20at%204.17.53%20PM.mov)
