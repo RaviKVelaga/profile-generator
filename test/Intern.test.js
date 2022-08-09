@@ -8,7 +8,7 @@ test('creates an Intern object', () => {
 
 
 test('gets intern school', () => {
-    const intern = new Intern('Mayuri', 34, 'mayu04@gmail.com', 'RMIT');
+    const intern = new Intern('Ravi', 54, 'ravikvelaga@gmail.com', 'RMIT');
 
     expect(intern.getSchool()).toEqual(expect.stringContaining(intern.school.toString()));
 });
@@ -16,7 +16,7 @@ test('gets intern school', () => {
 
 
 test('gets role of employee', () => {
-    const intern = new Intern('Mayuri', 34, 'mayu04@gmail.com', 'RMIT');
+    const intern = new Intern('Ravi', 54, 'ravikvelaga@gmail.com', 'RMIT');
     expect(intern.getRole()).toEqual('Intern');
 });
 
